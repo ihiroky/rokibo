@@ -51,8 +51,31 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        [
+          "copper_edge_clearance|201658343|70606719|48c738dc-6137-4f7d-8123-c9e5adbc0bcf|8e4874b1-c88e-4e29-86f2-660f2a73c31f",
+          ""
+        ],
+        [
+          "copper_edge_clearance|201658343|73019719|6fd7344f-7c54-4a05-8ceb-ce989e933f9d|21d37715-e247-4424-bdd9-4d24c71cb407",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210044478|82728961|3d8761bc-2942-42d0-85c7-113b648f7ca4|9362fe4c-69c1-4a6d-8a05-235093021b3a",
+          ""
+        ],
+        [
+          "copper_edge_clearance|211733321|81871077|6023ed38-9067-4779-9cb9-ac2b3cecc430|c29770b5-5858-48a8-b7fc-fd16557e8f53",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -180,7 +203,12 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.25,
+        0.3,
+        0.5
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -207,7 +235,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
