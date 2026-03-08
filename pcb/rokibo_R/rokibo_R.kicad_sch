@@ -3184,7 +3184,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 196.85 128.2699 0)
 			(effects
 				(font
@@ -3875,7 +3875,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 222.25 128.2699 0)
 			(effects
 				(font
@@ -4096,7 +4096,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 171.45 128.2699 0)
 			(effects
 				(font
@@ -4925,7 +4925,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "rokibo:XIAO_nRF52840_wBAT_wNFC"
+		(property "Footprint" "rokibo:XIAO_nRF52840_wBAT_wNFC_1"
 			(at 43.18 29.21 0)
 			(effects
 				(font
@@ -5178,7 +5178,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 158.75 128.2699 0)
 			(effects
 				(font
@@ -6116,7 +6116,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 209.55 128.2699 0)
 			(effects
 				(font
@@ -6490,7 +6490,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 184.15 128.2699 0)
 			(effects
 				(font
