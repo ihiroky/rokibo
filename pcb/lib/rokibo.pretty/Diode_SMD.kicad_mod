@@ -1,0 +1,161 @@
+(footprint "Diode_SMD"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Resitance 3 pas")
+	(tags "R")
+	(property "Reference" "D000"
+		(at -1.190624 -1.48828 0)
+		(layer "B.SilkS")
+		(uuid "cf32f0fc-e2fa-4fee-a79f-f5320eb37f93")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.125)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Value" "D"
+		(at -0.6 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6814d218-1e87-4863-848f-82106b37f82e")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c4e704ca-d8bb-44b8-8c10-5f9f3874bbe7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b4282b5f-9e77-4f93-880c-4a4a6ef089ab")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.7 -0.75)
+		(end -2.7 0.75)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "dcdfd845-d457-4ad4-bb98-761fc4d37b9e")
+	)
+	(fp_line
+		(start -2.7 0.75)
+		(end 2.7 0.75)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "5aaef0e0-905f-49cc-b0a5-370f35c1b81d")
+	)
+	(fp_line
+		(start -0.5 -0.5)
+		(end -0.5 0.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "52cc22b2-ef65-47b9-9721-d5c0b2afbd5a")
+	)
+	(fp_line
+		(start -0.4 0)
+		(end 0.5 -0.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "2ad73708-5a01-4300-87d4-91a2c44efe02")
+	)
+	(fp_line
+		(start 0.5 -0.5)
+		(end 0.5 0.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "56a369f1-3bf9-4826-a0fd-c7a08b67cbdb")
+	)
+	(fp_line
+		(start 0.5 0.5)
+		(end -0.4 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "4612db7f-0ce7-48e2-8059-f200914de292")
+	)
+	(fp_line
+		(start 2.7 -0.75)
+		(end -2.7 -0.75)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "5f0b14bd-67fd-4f32-aca4-46f58ab68313")
+	)
+	(fp_line
+		(start 2.7 0.75)
+		(end 2.7 -0.75)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "d1348ab9-6c40-4611-a850-421a76b65dc3")
+	)
+	(pad "1" smd rect
+		(at -1.775 0)
+		(size 1.3 0.95)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "dc4a5cb9-ec20-4a74-a751-8db679faa70d")
+	)
+	(pad "2" smd rect
+		(at 1.775 0)
+		(size 1.3 0.95)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(uuid "685d1351-bcf9-441b-970d-f6ffba6b2e5b")
+	)
+	(embedded_fonts no)
+	(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 0.22 0.15 0.15)
+		)
+		(rotate
+			(xyz 0 0 180)
+		)
+	)
+)
