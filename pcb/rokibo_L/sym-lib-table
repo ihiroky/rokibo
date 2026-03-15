@@ -1,3 +1,4 @@
 (sym_lib_table
   (version 7)
+  (lib (name "rokibo")(type "KiCad")(uri "/home/hiroki/projects/rokibo/pcb/lib/rokibo.kicad_sym")(options "")(descr ""))
 )

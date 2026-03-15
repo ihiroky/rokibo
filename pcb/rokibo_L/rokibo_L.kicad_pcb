@@ -10667,7 +10667,7 @@
 	(footprint "rokibo:m2_Spacer_Hole"
 		(layer "F.Cu")
 		(uuid "42381435-592b-4b8b-9177-5a1491365a63")
-		(at 211.633416 88.999144)
+		(at 211.633416 88.701488)
 		(descr "Mounting Hole 2.2mm, no annular, M2")
 		(tags "mounting hole 2.2mm no annular m2")
 		(property "Reference" "H004"
@@ -46316,14 +46316,14 @@
 	)
 	(segment
 		(start 199.42952 81.8554)
-		(end 199.42952 78.283528)
+		(end 199.42952 79.283528)
 		(width 0.3)
 		(layer "F.Cu")
 		(net 33)
 		(uuid "8d29c5f3-849d-4d4a-b55c-60a180f03515")
 	)
 	(segment
-		(start 199.42952 78.283528)
+		(start 198.42952 78.283528)
 		(end 198.347723 78.283528)
 		(width 0.3)
 		(layer "F.Cu")
@@ -46370,6 +46370,15 @@
 		(layer "F.Cu")
 		(net 33)
 		(uuid "54ed43a6-da3a-4afd-bb8c-c93480d79a7a")
+	)
+	(arc
+		(start 199.42952 79.283528)
+		(mid 199.136627 78.576421)
+		(end 198.42952 78.283528)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 33)
+		(uuid "84bacfcc-a73d-4003-989a-3204923dc4d5")
 	)
 	(arc
 		(start 207.466232 126.025046)
