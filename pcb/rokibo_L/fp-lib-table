@@ -1,3 +1,4 @@
 (fp_lib_table
   (version 7)
+  (lib (name "rokibo")(type "KiCad")(uri "${ROKIBO_ROOT_DIR}/lib/rokibo.pretty")(options "")(descr ""))
 )

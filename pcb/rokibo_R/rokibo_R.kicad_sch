@@ -2418,7 +2418,7 @@
 	)
 	(global_label "CS"
 		(shape input)
-		(at 53.34 67.31 180)
+		(at 81.28 82.55 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2428,7 +2428,7 @@
 		)
 		(uuid "355655e9-b041-413b-8b3f-295ebce11780")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 47.8753 67.31 0)
+			(at 81.28 88.0147 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2880,7 +2880,7 @@
 	)
 	(global_label "SDIO"
 		(shape input)
-		(at 81.28 82.55 270)
+		(at 53.34 67.31 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2890,7 +2890,7 @@
 		)
 		(uuid "c59d013b-f4b2-4452-9833-5c9da0459eca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 81.28 89.95 90)
+			(at 45.94 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2946,7 +2946,7 @@
 	)
 	(global_label "SCLK"
 		(shape input)
-		(at 53.34 63.5 180)
+		(at 85.09 82.55 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2956,7 +2956,7 @@
 		)
 		(uuid "f37c4de4-39f8-4a28-afe9-0f7171599def")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 45.5772 63.5 0)
+			(at 85.09 90.3128 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2990,7 +2990,7 @@
 	)
 	(global_label "MOTION"
 		(shape input)
-		(at 85.09 82.55 270)
+		(at 53.34 63.5 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3000,7 +3000,7 @@
 		)
 		(uuid "fc8e31a1-886c-471c-886d-300999c45f92")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 85.09 92.5505 90)
+			(at 43.3395 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
